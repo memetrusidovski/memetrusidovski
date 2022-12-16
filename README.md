@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memetrusidovski&show_icons=true&locale=en" alt="memetrusidovski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memetrusidovski&" alt="memetrusidovski" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetrusidovski&layout=compact)](https://github.com/memetrusidovski/github-readme-stats)
