@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Memet</h1>
-<h3 align="center">A Passionate Computer Science and Physics Student from Canada</h3>
+<h1 align="center">Hi 👋, I'm Memet R.</h1>
+<h3 align="center">A Passionate Computer Science and Physics Student from Canada Doing Research in Quantum Computing and AI Focusing on NLP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memetrusidovski&label=Profile%20views&color=0e75b6&style=flat" alt="memetrusidovski" /> </p>
 
