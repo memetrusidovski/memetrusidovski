@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Computer Science and Physics Student from Canada Doing Research in Quantum Computing and AI Focusing on NLP</h3>
 
 <h2>Top Projects</h2>
-<a href="https://github.com/memetrusidovski/Julia">Computing Julia Set Using Super Computing and GPU Computing</a>
-<a href="https://github.com/memetrusidovski/LaurierChat">Chatbot Using Custom ML Pipeline Running Locally(Pre-ChatGPT)</a>
-<a href="https://github.com/memetrusidovski/Chess_Engine">Chess Engine Built in Compiled Python</a>
+<p align="center"> <a href="https://github.com/memetrusidovski/Julia">Computing Julia Set Using Super Computing and GPU Computing</a></p>
+<p align="center"> <a href="https://github.com/memetrusidovski/LaurierChat">Chatbot Using Custom ML Pipeline Running Locally(Pre-ChatGPT)</a></p>
+<p align="center"> <a href="https://github.com/memetrusidovski/Chess_Engine">Chess Engine Built in Compiled Python</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memetrusidovski&label=Profile%20views&color=0e75b6&style=flat" alt="memetrusidovski" /> </p>
 
