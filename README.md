@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Memet R.</h1>
 <h3 align="center">A Passionate Computer Science and Physics Student from Canada Doing Research in Quantum Computing and AI Focusing on NLP</h3>
 
+<h2>Top Projects</h2>
+<a href="https://github.com/memetrusidovski/Julia"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memetrusidovski&label=Profile%20views&color=0e75b6&style=flat" alt="memetrusidovski" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memetrusidovski" alt="memetrusidovski" /></a> </p>
